@@ -1,0 +1,16 @@
+.stitched {
+   padding: 30px;
+   margin: 150px;
+   background: #13238E;
+   text-align: center;
+   color: #fff;
+   font-family: "Lucida Handwriting";
+   font-size: 35px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #13238E, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -4px -4px #aa3030;
+   font-weight: normal;
+}
